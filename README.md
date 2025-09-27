@@ -34,3 +34,6 @@ Menos riesgo que Node 24.
 MySQL 8.0 garantiza máxima compatibilidad de drivers.
 
 ➡️ Si inicias un proyecto nuevo en 2025, esta es una elección muy recomendable.
+
+### Link de conversacion con informacion completa
+https://chatgpt.com/share/68d741e6-5634-8001-8547-fe576f642cdc
