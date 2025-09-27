@@ -1,9 +1,9 @@
 ## Control de versiones
 ### Tecnologias a usar 
-#### Mi propuesta
-Node.js 24 lts
-Angular 20
-Typescript 5.8
+#### Mi  (mane) propuesta
+Node.js 24 lts +
+Angular 20 +
+Typescript 5.8 +
 MySQL 8.4 LTS
 
 #### En base a documentacion oficial
@@ -14,7 +14,10 @@ MySQL 8.4 LTS
 | **Último LTS absoluto**                  | **Node 24 LTS + Angular 20 + TS 5.8 + MySQL 8.4 LTS** | Lo más nuevo, mayor horizonte de soporte.                        | Mayor riesgo de dependencias que aún no declaran compatibilidad explícita con Node 24. |
 
 
-Chat nos recomienda esto:
+### Conversacion con chat 
+https://chatgpt.com/share/68d741e6-5634-8001-8547-fe576f642cdc
+
+Datos importantes que dio chat:
 
 Si este proyecto entra pronto en producción y necesitas cero sorpresas,
 👉 Node 20 LTS + Angular 20 + TypeScript 5.8 + MySQL 8.0.x (o 8.0.37+) es hoy el sweet spot.
@@ -23,7 +26,7 @@ Todo está documentado y probado, y podrás migrar a Node 22/24 o MySQL 8.4 en e
 Si el proyecto es a largo plazo (1 año de desarrollo) y puedes testear drivers,
 👉 puedes subir a Node 22 LTS + MySQL 8.4 LTS para maximizar vida útil.
 
-#### La propuesta mas estable
+#### La que para mi (mane) es la mejor propuesta
 
 Node 22 LTS + Angular 20 + TS 5.8 + MySQL 8.0 es probablemente el mejor “sweet spot” hoy:
 
@@ -32,8 +35,3 @@ Más soporte futuro que Node 20.
 Menos riesgo que Node 24.
 
 MySQL 8.0 garantiza máxima compatibilidad de drivers.
-
-➡️ Si inicias un proyecto nuevo en 2025, esta es una elección muy recomendable.
-
-### Link de conversacion con informacion completa
-https://chatgpt.com/share/68d741e6-5634-8001-8547-fe576f642cdc
