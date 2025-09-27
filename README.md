@@ -23,7 +23,7 @@ Todo está documentado y probado, y podrás migrar a Node 22/24 o MySQL 8.4 en e
 Si el proyecto es a largo plazo (1 año de desarrollo) y puedes testear drivers,
 👉 puedes subir a Node 22 LTS + MySQL 8.4 LTS para maximizar vida útil.
 
-#### La propuesta mas conbeniente
+#### La propuesta mas estable
 
 Node 22 LTS + Angular 20 + TS 5.8 + MySQL 8.0 es probablemente el mejor “sweet spot” hoy:
 
